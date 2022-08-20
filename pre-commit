@@ -1,0 +1,3 @@
+#!/bin/bash
+
+${GIT_REPO_BASE}/run_clang_format.bash
